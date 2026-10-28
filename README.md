@@ -1,6 +1,6 @@
-Hi there, I'm Arindam Chakraborty 👋
+👋 Hi there, I'm Arindam Chakraborty!
 
-Aspiring Software Developer | Student | Tech Enthusiast
+💻 Aspiring Software Developer | Student | Tech Enthusiast
 
 I'm passionate about programming, web development, and building practical projects. I enjoy learning new technologies and improving my coding skills through hands-on practice.
 
@@ -35,17 +35,27 @@ My personal website showcasing my skills, projects, and developer journey.
 
 🏥 Hospital Bed Management
 
-A project focused on hospital bed management.
+A project focused on organizing hospital bed information through an interactive interface.
 
 "View Repository" (https://github.com/arindamchakraborty179-glitch/Hospital-Bed-Arrangement-)
 
 ❤️ Love Surprise
 
-A romantic surprise website built with JavaScript.
+A romantic surprise website built with HTML, CSS, and JavaScript.
 
 "View Repository" (https://github.com/arindamchakraborty179-glitch/love-surprise)
 
 ---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arindamchakraborty179-glitch&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindamchakraborty179-glitch&layout=compact&theme=dark" alt="Top Languages" />
+</p>---
 
 📫 Connect With Me
 
